@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>29</filename>
+  <path>C:\Users\sharma nishith\OneDrive - The Boston Consulting Group, Inc\Documents\ObjectDetectionDemo\object_detection_demo\data\images\train\29.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>papernote</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>189</xmin>
+      <ymin>121</ymin>
+      <xmax>623</xmax>
+      <ymax>306</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>papernote</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191</xmin>
+      <ymin>337</ymin>
+      <xmax>621</xmax>
+      <ymax>523</ymax>
+    </bndbox>
+  </object>
+</annotation>
